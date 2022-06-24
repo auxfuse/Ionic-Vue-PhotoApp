@@ -1,4 +1,4 @@
-{
+ionic {
   "name": "photo-gallery",
   "integrations": {
     "capacitor": {}
